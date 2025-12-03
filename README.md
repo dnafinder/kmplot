@@ -164,6 +164,8 @@ When called with output arguments, kmplot returns:
 
 If you request fewer than seven outputs, kmplot simply returns the first k elements in the order above.
 
+![](https://github.com/dnafinder/kmplot/blob/master/kmplot.jpg)
+
 ## 🧠 Interpretation
 
 - The step function T1 vs t1 represents the estimated survival function S(t).
